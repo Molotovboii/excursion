@@ -22,3 +22,29 @@ body {
 .link a {
     color: aquamarine;
 }
+
+.video {
+    display: flex;
+    justify-content: center;
+}
+
+
+.main-text {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.description {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+.image {
+    background-image: url('https://content.codecademy.com/programs/freelance-one/excursion/images/camp.jpg');
+}
